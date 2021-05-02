@@ -1,5 +1,7 @@
 package com.java.FunctionalInterface.StaticMethod;
 
+import java.util.function.Consumer;
+
 public class DemoClass extends A{
     public static void main(String[] args) {
         MyInterface.display();
@@ -7,6 +9,7 @@ public class DemoClass extends A{
         System.out.println(a);
         DemoClass demoClass = new DemoClass();
         demoClass.A();
+
     }
 
 
