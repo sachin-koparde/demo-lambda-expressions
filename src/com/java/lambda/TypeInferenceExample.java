@@ -10,6 +10,7 @@ public class TypeInferenceExample {
         System.out.println(lambdaExpression.sayLength("Hello"));
     }
 
+    @FunctionalInterface
     interface myLambdaExpression{
         int sayLength(String str);
     }
