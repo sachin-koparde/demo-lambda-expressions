@@ -8,6 +8,9 @@ public class TestClass extends DemoClass implements A,B{
         /** The below line executes method from class A
          * since class has highest priority than an interface */
         demoClass.show();
+        demoClass.add();
+
+        /* Some changes*/
 
     }
 
