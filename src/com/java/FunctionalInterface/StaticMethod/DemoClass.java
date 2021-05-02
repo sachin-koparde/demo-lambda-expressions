@@ -11,7 +11,7 @@ public class DemoClass extends A{
 
 
     public void A(){
-        System.out.println("Hello 2");
+        System.out.println("Hello from the class DemoClass");
     }
 
 
