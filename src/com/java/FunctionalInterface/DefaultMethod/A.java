@@ -1,4 +1,4 @@
-package com.java.FunctionalInterface;
+package com.java.FunctionalInterface.DefaultMethod;
 
 public interface A {
     abstract void add();

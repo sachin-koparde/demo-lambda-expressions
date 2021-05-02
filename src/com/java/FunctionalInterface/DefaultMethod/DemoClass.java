@@ -1,4 +1,4 @@
-package com.java.FunctionalInterface;
+package com.java.FunctionalInterface.DefaultMethod;
 
 public class DemoClass implements A,B{
     @Override

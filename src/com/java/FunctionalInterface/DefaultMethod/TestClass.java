@@ -1,4 +1,4 @@
-package com.java.FunctionalInterface;
+package com.java.FunctionalInterface.DefaultMethod;
 
 public class TestClass extends DemoClass implements A,B{
 
@@ -9,9 +9,6 @@ public class TestClass extends DemoClass implements A,B{
          * since class has highest priority than an interface */
         demoClass.show();
         demoClass.add();
-
-        /* Some changes*/
-
     }
 
 }
